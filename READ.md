@@ -19,4 +19,12 @@ Version control system(vcs):
 + touch file_name --> to create filename
 + nano filoename --> to create file and open nano editor
     	+ ctrl + x --> to exit from nano editor
-    	+ click on enter -->
+    	+ click on enter --> to save the code
++ cat filename --> to display the content in the file
++ git add filename --> 
++ git add . --> 
++ rm filename --> to remove file
++ git config --global user.name
++ git config --global user.email
++ git config --global --unset user.name "pavan"
++ git cinfug --global --unset user.email "pavankumart45@gmail.com"
